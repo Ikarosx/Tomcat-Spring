@@ -6,7 +6,7 @@
     <display-name>Ikarosx Web Application</display-name>
     <servlet>
         <servlet-name>gpmvc</servlet-name>
-        <servlet-class>cn.ikarosx.mvcframework.v1.servlet.GPDispatcherServlet</servlet-class>
+        <servlet-class>cn.ikarosx.mvcframework.v2.servlet.GPDispatcherServlet</servlet-class>
         <init-param>
             <param-name>contextConfigLocation</param-name>
             <param-value>application.properties</param-value>

@@ -10,6 +10,6 @@ import java.lang.annotation.*;
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 @Target(ElementType.PARAMETER)
-public @interface RequestParam {
+public @interface GPRequestParam {
     String value() default "";
 }
