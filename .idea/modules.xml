@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Tomcat-Spring.iml" filepath="$PROJECT_DIR$/.idea/Tomcat-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ikarosx-spring/ikarosx-spring.iml" filepath="$PROJECT_DIR$/ikarosx-spring/ikarosx-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat-study/tomcat-study.iml" filepath="$PROJECT_DIR$/tomcat-study/tomcat-study.iml" />
     </modules>
   </component>

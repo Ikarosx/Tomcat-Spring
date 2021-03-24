@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tomcat-study" />
+        <module name="ikarosx-spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ikarosx-spring" target="1.8" />
       <module name="tomcat-study" target="1.8" />
     </bytecodeTargetLevel>
   </component>
